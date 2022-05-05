@@ -85,13 +85,18 @@ Free tools are available to help customers and partners to get more value from t
 
 | <div style="width:400px">Tool</div> | Description | Link |
 |:-|:-|:-|
-| PSFalcon | PowerShell for CrowdStrike Falcon's OAuth2 APIs | https://github.com/crowdstrike/psfalcon |
+| PSFalcon | The CrowdStrike Falcon SDK for PowerShell | https://github.com/crowdstrike/psfalcon ([Documentation](https://github.com/crowdstrike/psfalcon/wiki)) |
+| FalconPy | The CrowdStrike Falcon SDK for Python | https://github.com/crowdstrike/falconpy ([Documentation](https://falconpy.io)) |
+| goFalcon | The CrowdStrike Falcon SDK for Go | https://github.com/crowdstrike/gofalcon ([Documentation](https://pkg.go.dev/github.com/crowdstrike/gofalcon)) |
+| Rusty Falcon | The CrowdStrike Falcon SDK for Rust | https://github.com/crowdstrike/rusty-falcon ([Documentation](https://docs.rs/rusty_falcon/latest/rusty_falcon/)) |
+| FalconJS | The CrowdStrike Falcon SDK for Javascript | https://github.com/crowdstrike/falconjs |
 | Falcon Orchestrator | Automated workflow and response capabilities | https://github.com/CrowdStrike/falcon-orchestrator |
 | CrowdInspect | https://www.crowdstrike.com/blog/free-community-tool-crowdinspect/ | https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/ |
 | CrowdResponse | https://www.crowdstrike.com/blog/crowdresponse-release-new-tasks-modules/ | https://www.crowdstrike.com/resources/community-tools/crowdresponse/ |
 | Falcon Linux Bash | Bash script to install Falcon Sensor, through the Falcon APIs, on a Linux endpoint | https://github.com/CrowdStrike/falcon-linux-install-bash |
 | CrowdFMS | CrowdFMS is a framework for automating collection and processing of samples from VirusTotal, by leveraging the Private API system. This framework automatically downloads recent samples, which triggered an alert on the users YARA notification feed. | https://github.com/CrowdStrike/CrowdFMS | 
 | CrowdScrape | Chrome Plugin designed to allow you to be able to scrape indicators from various websites and in-browser documents such as PDF reports while matching the data up against CrowdStrike Intelligence | https://chrome.google.com/webstore/detail/crowdscrape/jjplaeklnlddpkbbdbnogmppffokemej?hl=en |
+| MISP Import | Import CrowdStrike Threat Intel (Actors, Indicators and Reports) to your MISP Instance | https://github.com/crowdstrike/misp-import |
 
 # Data Sheets
 This section includes references to the most relevant data sheets of the different products and services of CrowdStrike Falcon Platform.
