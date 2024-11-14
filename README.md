@@ -1,5 +1,5 @@
 # Project Goals
-CrowdStrike has built over time an extensive and comprehensive set of publicly available material to support customers, prospects and partner education. This "public library" is composed of documents, videos, datasheets, whitpapers and much more and the contents are spread across different locations (CrowdStrike Website, Youtube, etc.).
+CrowdStrike has built over time an extensive and comprehensive set of publicly available material to support customers, prospects and partner education. This "public library" is composed of documents, videos, datasheets, whitepapers and much more and the contents are spread across different locations (CrowdStrike Website, Youtube, etc.).
 The goal of this document is to organize all the material to simplify access to the resources and provide an  easy reference to the contents.
 
 # Content Library
